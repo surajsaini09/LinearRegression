@@ -95,7 +95,7 @@ The model is evaluated using common regression metrics:
 | ------------ | ------------------------------------------------------------------- |
 | **MAE**      | Measures average absolute error                                     |
 | **MSE**      | Measures average squared error                                      |
-| **RMSE**     | Measures the typical prediction error in target units               |
+| **RMSE**     | Measures typical prediction error in target units                   |
 | **R² Score** | Measures how much variation in the target is explained by the model |
 
 ---
@@ -135,4 +135,12 @@ This project is part of my ongoing **Machine Learning journey**.
 
 I'm using hands-on projects to strengthen my understanding of ML fundamentals and gradually move toward more advanced algorithms and real-world projects.
 
-> **Learn the concept**
+> **Learn the concept → Implement it → Analyze the result → Repeat. 🔁**
+
+---
+
+## 👨‍💻 Author
+
+**Suraj**
+
+Learning and building toward **AI / Machine Learning Engineering**.
